@@ -1,6 +1,6 @@
 # BRM Inventario
 
-Es una api de inventario, para tener control de los usuario, productos y ventas.
+Es una api de inventario para tener control de los usuario, productos y ventas.
 
 ## Instalacion
 
