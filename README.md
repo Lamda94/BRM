@@ -27,4 +27,4 @@ Para el correcto funcionamiento del api es necesario tener en cuenta los siguien
 
 ## Tecnología
 
-Esta desarrollado usando create-react-app, react hooks y firebase.
+Esta desarrollado usando nodeJS con express y sequelize como ORM.
